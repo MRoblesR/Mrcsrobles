@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Marcos 
 #### I am a Software Engineering student
-I am a Software Engineering student
 
 I have been coding in Python since 2016 and now I am looking forwards to learn lower level languages
 
