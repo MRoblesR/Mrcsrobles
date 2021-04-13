@@ -3,12 +3,11 @@
 
 I have been coding in Python since 2016 and now I am looking forwards to learn lower level languages
 
-Skills: Python, Java, HTML, CSS
+Skills: Python, Java, HTML, CSS, Clean code, soft skills, novice software architecture
 
-- 🔭 I’m currently working on a program which generates a list of regular different colors. 
-- 🌱 I’m currently learning JavaScript and Node.js 
+- 🔭 I’m currently working my university proyects. 
+- 🌱 I’m currently learning web development 
 - 👯 I’m looking to collaborate on any project. 
-- 🤔 I’m looking for help with online apps. 
 - 📫 How to reach me: mrcsrobles@gmail.com 
 - ⚡ Fun fact: I wanted to study medicine but I was better with computers. 
 
