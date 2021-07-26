@@ -8,7 +8,7 @@ Skills: Python, Java, HTML, CSS, Clean code, soft skills, junior software archit
 - 🔭 I’m currently working on a personal blog. 
 - 🌱 I’m currently learning web development. 
 - 👯 I’m looking forward to collaborate on any project. 
-- 📫 How to reach me: mrcsrobles@gmail.com 
+- 📫 How to reach me: roblesmrcs@gmail.com 
 - ⚡ Fun fact: I wanted to study medicine but I was better with computers. 
 
 
