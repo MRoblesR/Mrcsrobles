@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Marcos 
-#### I am a Software Engineering student
+#### I am a Software Engineer
 
-I have been coding in Python since 2016 and now I am looking forwards to learn lower level languages
+I have been coding in Python since 2016
 
 Skills: Python, Java, HTML, CSS, Clean code, soft skills, junior software architecture
 
